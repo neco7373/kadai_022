@@ -44,7 +44,6 @@ h2{
   font-size: 25px;
   border-bottom: dotted 3px rgb(236,122,122);
 }
-
 h2::before{
   content: "●";
   color: rgb(239,111,139);
